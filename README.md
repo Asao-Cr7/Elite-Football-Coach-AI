@@ -129,7 +129,7 @@ elite-football-coach-ai/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/elite-football-coach-ai.git  
+git clone https://github.com/Asao-Cr7/elite-football-coach-ai.git  
 cd elite-football-coach-ai
 
 ---
